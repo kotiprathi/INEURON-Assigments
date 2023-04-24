@@ -1,0 +1,17 @@
+1.What do you mean by cells in an excel sheet?
+-- In Excel, a cell refers to a single rectangular box in a worksheet where data can be entered or displayed. Each cell is identified by a unique cell address or reference, which consists of the column letter and row number of the cell (e.g. A1, B2, C3, etc.).
+
+2. How can you restrict someone from copying a cell from your worksheet?
+-- To restrict someone from copying a cell from your worksheet, you can protect the worksheet and then lock the specific cells that you want to prevent others from copying. To do this, select the cells you want to lock, right-click and choose Format Cells, go to the Protection tab, check the Locked box, and then protect the worksheet with a password.
+
+3. How to move or copy the worksheet into another workbook?
+-- To move or copy a worksheet to another workbook in Excel, right-click on the sheet tab of the worksheet you want to move or copy, select Move or Copy, choose the target workbook from the To book dropdown menu, select where you want to place the worksheet in the new workbook, and then click OK.
+
+4. Which key is used as a shortcut for opening a new window document?
+-- In most Windows-based systems, the shortcut key for opening a new window document is Ctrl + N.
+
+5. What are the things that we can notice after opening the Excel interface?
+-- When opening the Excel interface, you will typically see a blank workbook with a grid of rows and columns. The ribbon at the top of the screen contains various tabs that give you access to different commands and features in Excel, such as Home, Insert, Page Layout, Formulas, Data, Review, and View.
+
+6. When to use a relative cell reference in excel?
+-- A relative cell reference in Excel is used when you want to refer to a cell or range of cells in a formula that can change based on the position of the formula relative to the cells being referred to. For example, if you have a formula that references cell A1 and you copy that formula to cell B1, the reference will automatically update to B1. Relative cell references are useful when you need to apply a formula to a range of cells and want the formula to adjust to each cell's location.
